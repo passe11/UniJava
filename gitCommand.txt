@@ -20,5 +20,7 @@ Inspect/Compare
 	git log
 	git log _____..______ (compare two branches)
 
+Z:\pmarl012\Desktop\GitHubLink
+
 Source : https://education.github.com/git-cheat-sheet-education.pdf
 	
