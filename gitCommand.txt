@@ -1,0 +1,24 @@
+Setup :
+	git config --global user.name “[firstname lastname]”
+	git config --global user.email “[valid-email]”
+Started:
+	git init
+	git clone
+	
+Stage/Snapshot:
+	git status
+	git add  . 
+	git reset
+	git commit "   "
+Branch /Merge:
+	git branch
+	git branch _____
+	git checkout
+	git merge
+	git log
+Inspect/Compare
+	git log
+	git log _____..______ (compare two branches)
+
+Source : https://education.github.com/git-cheat-sheet-education.pdf
+	
