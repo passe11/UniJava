@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="lang3/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="src/lang3/AnnotationUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/ArchUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/ArrayUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/BitField.java"/>
+	<classpathentry kind="lib" path="src/lang3/BooleanUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/CharEncoding.java"/>
+	<classpathentry kind="lib" path="src/lang3/CharRange.java"/>
+	<classpathentry kind="lib" path="src/lang3/CharSequenceUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/CharSet.java"/>
+	<classpathentry kind="lib" path="src/lang3/CharSetUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/CharUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/ClassPathUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/ClassUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/Conversion.java"/>
+	<classpathentry kind="lib" path="src/lang3/EnumUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/JavaVersion.java"/>
+	<classpathentry kind="lib" path="src/lang3/LocaleUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/NotImplementedException.java"/>
+	<classpathentry kind="lib" path="src/lang3/ObjectUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/package-info.java"/>
+	<classpathentry kind="lib" path="src/lang3/RandomStringUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/RandomUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/Range.java"/>
+	<classpathentry kind="lib" path="src/lang3/RegExUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/SerializationException.java"/>
+	<classpathentry kind="lib" path="src/lang3/SerializationUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/StringEscapeUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/StringUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/SystemUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/ThreadUtils.java"/>
+	<classpathentry kind="lib" path="src/lang3/Validate.java"/>
+	<classpathentry kind="lib" path="src/ArrayList.java"/>
+	<classpathentry kind="lib" path="src/Block.java"/>
+	<classpathentry kind="lib" path="src/BlockChain.java"/>
+	<classpathentry kind="lib" path="src/List.java"/>
+	<classpathentry kind="lib" path="src/Sha1.java"/>
+	<classpathentry kind="lib" path="src/TestSha1.java"/>
+	<classpathentry kind="lib" path="src/Transaction.java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

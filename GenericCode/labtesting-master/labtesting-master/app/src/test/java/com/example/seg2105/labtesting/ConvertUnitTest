@@ -1,0 +1,18 @@
+
+
+
+@Test
+@UiThreadTest
+    public void checkFirstName() throws Exception{
+    assertNotNull(mActivity.findViewById(R.id.textViewI));
+    text = mActivity.findViewById(R.id.username);
+    text.setText("user1");
+    String name = text.getText(().toString();
+    //name = null;
+        assertNotNull("user1",name);
+        }
+        {
+
+
+
+        }
